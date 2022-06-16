@@ -5,7 +5,7 @@
 
 - 👨‍💻 All my projects are available at: [https://github.com/sanchitg21?tab=repositories](https://github.com/sanchitg21?tab=repositories)
 
-- 💬 Ask me about **Deep Learning, Machine Learning and Spring Boot**
+- 💬 Ask me about **Deep Learning, Machine Learning and Django**
 
 - 📫 Reach me at: **sanchit.873@gmail.com**
 
