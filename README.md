@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sanchit Gupta</h1>
-<h3 align="center">A sophomore majoring in Computer Science Engineering at BITS Pilani</h3>
+<h3 align="center">3rd Year Student majoring in Computer Science Engineering at BITS Pilani</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
