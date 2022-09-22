@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%"/>
   Hi there👋, I'm Sanchit Gupta</h1>
 <h3 align="center">3rd Year Student majoring in Computer Science Engineering at BITS Pilani</h3>
 
