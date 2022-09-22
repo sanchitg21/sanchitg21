@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Sanchit Gupta</h1>
 <h3 align="center">3rd Year Student majoring in Computer Science Engineering at BITS Pilani</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on **Machine Learning**
 
 - 👨‍💻 All my projects are available at: [https://github.com/sanchitg21?tab=repositories](https://github.com/sanchitg21?tab=repositories)
 
