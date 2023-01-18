@@ -10,7 +10,7 @@
 
 - 📫 Reach me at: **sanchit.873@gmail.com**
 
-<br/>
+
 ## 📊 My Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanchitg21&theme=dark)](https://git.io/streak-stats)
 <br/>
