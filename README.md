@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://www.instavyapar.com/images/inner-page/CMS-web-development.gif" height="175px"/></a>
-  Hi there👋, I'm Sanchit Gupta</h1>
+<h1 align="center">Hi there👋, I'm Sanchit Gupta</h1>
 <h3 align="center">3rd Year Student majoring in Computer Science Engineering at BITS Pilani</h3>
 
 - 🌱 I’m currently working on **Machine Learning**
