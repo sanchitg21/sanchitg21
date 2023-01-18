@@ -15,7 +15,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanchitg21&theme=dark)](https://git.io/streak-stats)
 <br/>
 ## 📊 My Github  Stats
-[![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitg21)](https://github.com/sanchitg21/github-readme-stats)
+![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitg21&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
