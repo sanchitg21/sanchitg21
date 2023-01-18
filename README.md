@@ -11,10 +11,10 @@
 - 📫 Reach me at: **sanchit.873@gmail.com**
 
 
-## 📊 My Github Stats
+## 📊 My Github Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanchitg21&theme=dark)](https://git.io/streak-stats)
 <br/>
-
+## 📊 My Github  Stats
 ![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitg21&show_icons=true&theme=dracula)
 
 <h3 align="left">Connect with me:</h3>
