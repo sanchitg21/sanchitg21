@@ -16,7 +16,7 @@
 <br/>
 ## 📊 My Github  Stats
 [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitg21&show_icons=true&theme=tokyonight)](https://github.com/sanchitg21/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitg21&layout=compact)](https://github.com/sanchitg21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitg21&layout=compact&theme=radical)](https://github.com/sanchitg21/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
