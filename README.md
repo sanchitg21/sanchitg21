@@ -10,6 +10,19 @@
 
 - 📫 Reach me at: **sanchit.873@gmail.com**
 
+## 📊 My Github Stats
+
+<!--   <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=akshatjain1004&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"> 
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjain1004&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanchitg21)](https://git.io/streak-stats)
+
+
+<br/>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanchit-gupta-78b533229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitgupta" height="30" width="40" /></a>
