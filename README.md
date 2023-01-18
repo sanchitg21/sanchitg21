@@ -11,14 +11,14 @@
 - 📫 Reach me at: **sanchit.873@gmail.com**
 
 
-## 📊 My Github Streak Stats:
+## 📊 My Github Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanchitg21&theme=dark)](https://git.io/streak-stats)
 <br/>
-## 📊 My Github  Stats:
+## 📊 My Github  Stats
 [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitg21&show_icons=true&theme=react)](https://github.com/sanchitg21/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitg21&layout=compact&theme=react)](https://github.com/sanchitg21/github-readme-stats)
 
-## Connect with me:
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/sanchit-gupta-78b533229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitgupta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100056792650953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanchitgupta" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 
  -->
 
-## ❤ Views and Followers:
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sanchitg21">
 </a>
