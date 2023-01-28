@@ -2,11 +2,11 @@
 <h1 align="center">Hi there👋, I'm Sanchit Gupta</h1>
 <h3 align="center">3rd Year Student majoring in Computer Science Engineering at BITS Pilani</h3>
 
-- 🌱 I’m currently working on **Machine Learning**
+- 🌱 I’m currently working on **MERN Stack**
 
 - 👨‍💻 All my projects are available at: [https://github.com/sanchitg21?tab=repositories](https://github.com/sanchitg21?tab=repositories)
 
-- 💬 Ask me about **Deep Learning, Spring Boot and Django**
+- 💬 Ask me about **Machine Learning, Spring Boot and Django**
 
 - 📫 Reach me at: **sanchit.873@gmail.com**
 
