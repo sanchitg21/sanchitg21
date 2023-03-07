@@ -30,9 +30,9 @@
 
 
  -->
-
+<!-- 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sanchitg21">
 </a>
-<a href="https://github.com/sanchitg21?tab=followers"><img src="https://img.shields.io/github/followers/sanchitg21?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sanchitg21?tab=followers"><img src="https://img.shields.io/github/followers/sanchitg21?label=Followers&style=social" alt="GitHub Badge"></a> -->
